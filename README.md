@@ -74,5 +74,14 @@
 - Modify the `.bas` file if needed to customize the program.
 - Refer to the PICAXE manual for further details: [https://www.picaxe.com/docs/picaxe_manuals.pdf](https://www.picaxe.com/docs/picaxe_manuals.pdf)
 
+## How to use
+
+## Extention Projects
+
+### First-Party Extentions
+- [louisp2024-dni/tank-game](https://github.com/louisp2024-dni/tank-game)
+### Third-Party Extentions
+
+## Other Projects
 ---
-**Created by:** `louisp2024@dni.school.nz`
+**Created by:** `louisp2024@dni.school.nz` and angush@2024@dni.school.nz
