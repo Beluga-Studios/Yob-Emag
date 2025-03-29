@@ -84,4 +84,4 @@
 
 ## Other Projects
 ---
-**Created by:** `louisp2024@dni.school.nz` and angush@2024@dni.school.nz
+**Created by:** louisp2024@dni.school.nz and angush2024@dni.school.nz
