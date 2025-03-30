@@ -75,13 +75,18 @@
 - Refer to the PICAXE manual for further details: [https://www.picaxe.com/docs/picaxe_manuals.pdf](https://www.picaxe.com/docs/picaxe_manuals.pdf)
 
 ## How to use
+-
 
-## Extention Projects
+## Developer Tools
+- [louisp2024/bs-console-controller-decoder](https://github.com/louisp2024-dni/bs-console-controller-decoder)
 
-### First-Party Extentions
+## Extention Projects and Accessories
+
+### First-Party Projects
 - [louisp2024-dni/tank-game](https://github.com/louisp2024-dni/tank-game)
-### Third-Party Extentions
+   Make a cool RC tank car game
 
-## Other Projects
+### Third-Party Projects
+
 ---
 **Created by:** louisp2024@dni.school.nz and angush2024@dni.school.nz
